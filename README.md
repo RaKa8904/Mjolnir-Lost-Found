@@ -2,6 +2,16 @@
 
 A calm, confident dark tool for campus recovery built in the spirit of Linear and Vercel. Students can report lost or found items, search records with typo-tolerant fuzzy matching, and contact finders directly.
 
+> **Note:** This is a project I made for a tech event finals named **Prompt Mania**. I was given **120 minutes** to make this project based on the problem statement below.
+
+---
+
+## The Problem Statement
+
+**TRIAL 1**
+**Campus Lost and Found**
+Build a simple web page where students can post lost items and found items. The user should be able to type the item name, upload a picture URL, add their contact info, and see a list of all lost things. Add a search box so students can easily find their missing books, keys, or bags.
+
 ---
 
 ## Quickstart
